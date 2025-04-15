@@ -54,21 +54,11 @@ precision    recall  f1-score   support
        1       0.98      0.99      0.99      5839
 
 accuracy                           0.99     21000
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
 
 macro avg 0.99 0.99 0.99 21000
 weighted avg 0.99 0.99 0.99 21000
 
 ## Repository Structure
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
 
 ├── data/ # Contains the raw datasets
 │ ├── Wilson_train.csv
